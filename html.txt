@@ -4,3 +4,6 @@ comedians
 
 director
 stuntman
+
+fights
+anger
