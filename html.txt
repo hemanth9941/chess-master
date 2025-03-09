@@ -1,9 +1,0 @@
-hero heroine 
-villain
-comedians
-
-director
-stuntman
-
-fights
-anger
